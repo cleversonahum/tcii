@@ -1,7 +1,5 @@
-node1,node2,distance,color
-mangueirao,tuna,1,red
-mangueirao,baenao,3,blue
-mangueirao,curuzu,2,black
-tuna,baenao,1,yellow
-tuna,curuzu,2,red
-baenao,curuzu,1,red
+node1,node2,distance
+mangueirao,tuna,2
+tuna,baenao,2
+tuna,curuzu,2
+baenao,curuzu,1
