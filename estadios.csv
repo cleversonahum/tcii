@@ -3,4 +3,6 @@ mangueirao,tuna,2
 tuna,baenao,2
 tuna,curuzu,2
 curuzu,tuna,2
+curuzu,baenao,2
 baenao,curuzu,1
+tuna,mangueirao,2
